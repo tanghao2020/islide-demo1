@@ -1,0 +1,15 @@
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/config/TestDisposeableBean.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/domain/EquipmentExample.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/controllor/EquipmentControllor.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/service/guava/BloomFilterDemo.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/service/schedule/ScheduleTest.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/domain/Equipment.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/mapper/EquipmentMapper.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/service/util/SnowflakeIdWorker.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/service/EquipmentService.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/DemoAppApplication.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/config/DruidConfig.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/mapper/EquipmentSqlProvider.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/config/DubboConfig.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/service/loadingcache/LoadingCacheDemo.java
+/Users/hao/islide-demo/demo-app/src/main/java/com/islide/demoapp/constant/EquimentConstant.java

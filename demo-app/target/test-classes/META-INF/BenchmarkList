@@ -1,0 +1,3 @@
+JMH S 32 com.islide.demoapp.JMHHelloWorld S 66 com.islide.demoapp.generated.JMHHelloWorld_testStringBuild_jmhTest S 15 testStringBuild S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 36 com.islide.demoapp.JMHSpringbootTest S 59 com.islide.demoapp.generated.JMHSpringbootTest_test_jmhTest S 4 test S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 32 com.islide.demoapp.JMHHelloWorld S 64 com.islide.demoapp.generated.JMHHelloWorld_testStringAdd_jmhTest S 13 testStringAdd S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daafe66a-6b97-4b23-8a47-b529f728a71d" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.11.5/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../YYProject/goProject/test" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../tanghao/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/tanghao/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1VjGgqCJ24XqzdCMP5SS7HRPbfz" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/demo-app/src/main/java/com/islide/demoapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coupon-app/src/main/resources" />
+      <recent name="$PROJECT_DIR$/coupon-app/src/test/java" />
+      <recent name="$PROJECT_DIR$/coupon-app/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xdclass.couponapp.service.schedule" />
+      <recent name="com.xdclass.couponapp.service.dubbo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/coupon-app/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BloomDemoTest.check">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="xdclass-coupon" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="xdclass-coupon" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DemoAppApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.islide.demoapp.DemoAppApplication" />
+      <module name="demo-app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.islide.demoapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.mybatis.generator.plugins.Generator" />
+      <module name="demo-app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mybatis.generator.plugins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BloomDemoTest.check" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.islide.demoapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.islide.demoapp" />
+      <option name="MAIN_CLASS_NAME" value="com.islide.demoapp.BloomDemoTest" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponAppApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.islide.demoapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.islide.demoapp" />
+      <option name="MAIN_CLASS_NAME" value="com.islide.demoapp.CouponAppApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generator.generate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mybatis.generator.plugins.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mybatis.generator.plugins" />
+      <option name="MAIN_CLASS_NAME" value="org.mybatis.generator.plugins.Generator" />
+      <option name="METHOD_NAME" value="generate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponAppApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isldie.couponapp.CouponAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="demo-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xdclass.couponapp.CouponAppApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CouponServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xdclass.couponserviceapi.CouponServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.islide.demoapp.DemoAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XdclassCouponApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="islide-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xdclass.xdclasscoupon.XdclassCouponApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.isldie.demoapp.demoAppApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DemoAppApplication" />
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="JUnit.Generator.generate" />
+      <item itemvalue="JUnit.CouponAppApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.BloomDemoTest.check" />
+      <item itemvalue="Spring Boot.XdclassCouponApplication" />
+      <item itemvalue="Spring Boot.CouponAppApplication" />
+      <item itemvalue="Spring Boot.CouponServiceApiApplication" />
+      <item itemvalue="Spring Boot.CouponAppApplication (1)" />
+      <item itemvalue="Spring Boot.demoAppApplication" />
+      <item itemvalue="Spring Boot.DemoAppApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BloomDemoTest.check" />
+        <item itemvalue="Application.DemoAppApplication" />
+        <item itemvalue="JUnit.Generator.generate" />
+        <item itemvalue="Application.Generator" />
+        <item itemvalue="JUnit.CouponAppApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daafe66a-6b97-4b23-8a47-b529f728a71d" name="Default" comment="" />
+      <created>1561885195429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561885195429</updated>
+      <workItem from="1561885198487" duration="2583000" />
+      <workItem from="1562334825157" duration="14440000" />
+      <workItem from="1562591680830" duration="3851000" />
+      <workItem from="1562853449427" duration="916000" />
+      <workItem from="1563010415242" duration="2816000" />
+      <workItem from="1563290006775" duration="9118000" />
+      <workItem from="1563371569398" duration="6130000" />
+      <workItem from="1563465136046" duration="9901000" />
+      <workItem from="1563546214775" duration="9499000" />
+      <workItem from="1563616297720" duration="9384000" />
+      <workItem from="1563805531351" duration="2529000" />
+      <workItem from="1564071055492" duration="8480000" />
+      <workItem from="1564313085218" duration="5222000" />
+      <workItem from="1564407470515" duration="4475000" />
+      <workItem from="1564666566561" duration="5746000" />
+      <workItem from="1564754578556" duration="13053000" />
+      <workItem from="1577759209157" duration="2709000" />
+      <workItem from="1577765520614" duration="15000" />
+      <workItem from="1577768497871" duration="98000" />
+      <workItem from="1577769350709" duration="662000" />
+      <workItem from="1577770058526" duration="146000" />
+      <workItem from="1577770212419" duration="2256000" />
+      <workItem from="1577773208526" duration="1548000" />
+      <workItem from="1577856576887" duration="9592000" />
+      <workItem from="1578289921242" duration="68000" />
+      <workItem from="1578290004557" duration="54000" />
+      <workItem from="1578290173956" duration="217000" />
+      <workItem from="1578290773514" duration="550000" />
+      <workItem from="1578291423794" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="176" key="#Project_Structure" timestamp="1578290025040">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="560" y="176" key="#Project_Structure/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578290025040" />
+    <state x="700" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577774066874">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="700" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1577774066874" />
+    <state x="420" y="114" key="CommitChangelistDialog2" timestamp="1578291609476">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="420" y="114" key="CommitChangelistDialog2/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291609476" />
+    <state x="815" y="269" key="FileChooserDialogImpl" timestamp="1577856647835">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="815" y="269" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1577856647835" />
+    <state width="1477" height="253" key="GridCell.Tab.0.bottom" timestamp="1578291239084">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state width="1864" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509723" />
+    <state width="1477" height="253" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291239084" />
+    <state width="1477" height="253" key="GridCell.Tab.0.center" timestamp="1578291239083">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state width="1864" height="237" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509723" />
+    <state width="1477" height="253" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291239083" />
+    <state width="1477" height="253" key="GridCell.Tab.0.left" timestamp="1578291239083">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state width="1864" height="237" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509722" />
+    <state width="1477" height="253" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291239083" />
+    <state width="1477" height="253" key="GridCell.Tab.0.right" timestamp="1578291239083">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state width="1864" height="237" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509723" />
+    <state width="1477" height="253" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291239083" />
+    <state width="1864" height="223" key="GridCell.Tab.1.bottom" timestamp="1577884509720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="223" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509720" />
+    <state width="1864" height="223" key="GridCell.Tab.1.center" timestamp="1577884509720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="223" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509720" />
+    <state width="1864" height="223" key="GridCell.Tab.1.left" timestamp="1577884509719">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="223" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509719" />
+    <state width="1864" height="223" key="GridCell.Tab.1.right" timestamp="1577884509720">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="223" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1577884509720" />
+    <state x="469" y="148" key="SettingsEditor" timestamp="1578291453266">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="469" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1577856847618" />
+    <state x="469" y="148" key="SettingsEditor/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578291453266" />
+    <state x="707" y="280" key="chooseDestDirectoryDialog" timestamp="1577858342752">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="707" y="280" key="chooseDestDirectoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1577858342752" />
+    <state x="668" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1578290773642">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="668" y="361" key="com.intellij.ide.util.TipDialog/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578290773642" />
+    <state x="438" y="140" width="824" height="538" key="find.popup" timestamp="1578290375196">
+      <screen x="0" y="23" width="1920" height="972" />
+    </state>
+    <state x="438" y="124" width="954" height="690" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1577862117285" />
+    <state x="438" y="140" width="824" height="538" key="find.popup/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1578290375196" />
+    <state x="627" y="227" width="840" height="718" key="search.everywhere.popup" timestamp="1577861978874">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="627" y="227" width="840" height="718" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1577861978874" />
+    <state x="627" y="237" width="670" height="676" key="search.everywhere.popup/1920.23.1920.1057/0.23.1920.972@0.23.1920.972" timestamp="1577771074685" />
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

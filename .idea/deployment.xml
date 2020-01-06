@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="islide-demo" uploadOnCheckin="73c89c51-3b92-4421-b9b4-6933897ba4bf">
+    <serverData>
+      <paths name="islide-demo">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/demo-service-api" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="islide-demo" />
+  </component>
+</project>

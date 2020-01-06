@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/islide/demoapp/JMHHelloWorld.testStringAdd
+inline,com/islide/demoapp/JMHHelloWorld.testStringBuild
+inline,com/islide/demoapp/JMHSpringbootTest.init
+inline,com/islide/demoapp/JMHSpringbootTest.test
